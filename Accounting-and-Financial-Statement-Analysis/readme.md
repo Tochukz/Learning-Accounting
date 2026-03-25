@@ -191,3 +191,100 @@ Average tax rate = Income Taxes / Earning Before Taxes (EBT)
 ![](slides/multi-step-income-statement.png)
 
 ### Balance Sheet  
+A statement that shows what is company owes and owns. Every balance sheet has two sides - left side (Assets) and right side (Liabilities and Equities)
+
+#### Asset (Left Size)
+The items that are listed on the Asset side of the balance sheet includes: Cash, Account Receivable, Inventory and Property, Plant & Equipment.
+__Cash Account__   
+This is one of the most important driver for a business.  
+It shows how much of the firm assets are cash or can easily be converted to cash. It give us an idea of the liquidity of the company.    
+
+__Accounts Receivable (Trade Receivables)__   
+It represents money owed by customers for the product the bought from the firm.  
+The firm registers that is has earned a payment from these customers, but has not yet received the payment.   
+
+__Inventory__  
+The is an account that shows the value of raw material, work-in-process goods and finished goods.   
+
+__Property, Plant and Equipment (PP&E)__   
+These are the assets that are vital to business operation.  They cannot be easily liquidated and they undergo depreciation each year.   
+
+__Note__: If a company pays rent for an entire year in advance. This can be booked as _prepaid expenses_ under the company assets account.  
+
+#### Liabilities (Right Side)
+__Accounts Payable__  
+One of the most important items on the liability side is Accounts Payable.  
+When a company buys raw materials for it production process, it registers the amount in the account payable until the actual payment has been made. This represents money the firm owes to it suppliers.  
+
+__Financial Liabilities__  
+The appears on the balance sheet when the company receives external financing.  This may be in the form of a bank loan.  
+This money is used by the firm to finance it's operation.  
+
+#### Equities (Right Side)
+__Ownership Claim__  
+This is the paid-in capital owed to the company's owners and/or shareholders.  
+The capital may not be repaid to the owners/shareholders but the company may paid them dividends from profit.  
+
+### Depreciation and Amortization (D&A)  
+#### Depreciation
+During each period a portion of the cost of the firm physical assets are used up and this is called depreciation.  
+Year after year, the assets because older and loses some of its market value and that is called depreciation.  
+Depreciation is shown as an _expense in the company's income statement_ and must be accounted for when calculating the company's profitability.   
+If a company buys a Car for it's operation say R30,000. The company must add R30,000 as a PP&E assets and subtract the same amount -R30,000 from its cash assets.  
+Each year the company must subtract the depreciation cost from the R30,000 PP&E assets.  
+
+There are two methods of calculating depreciation
+1. Straight-line methods
+2. Activity-base depreciation.   
+
+__Straight-line depreciation methods__   
+Assuming the Car cost R30,000 and the salvage value of the car is R6,000 (salvage value is the price at the end of the car's useful life) and the useful life of the car is 8 years.
+```
+Annual Depreciation = (30,000 - 6,000) / 8
+Depreciation  = 3,000 per annum
+```
+
+__Activity-base depreciation method__  
+Assuming the useful life of the Car is 200,000km  
+```
+Depreciation per Km = (30,000 - 6,000) / 200,000
+Depreciation = R0,12 per Km
+```
+If the car was driven for a total of 30,000km in the first year then
+```
+Depreciation = 0.12 x 30,000
+Depreciation = R3,600
+```
+
+#### Amortization
+Intangible assets are assets that are not physical in nature. For example, Software, Brand, Goodwill and Artistic assets.   
+The equivalent for depreciation for intangible assets is called Amortization.   
+Depreciation is always used for tangible assets (Property, Plants, Equipment, Vehicle) while Amortization is used for intangible assets.   
+Only intangible assets with finite lives (e.g Software) are subject to amortization.  
+
+
+### Historical Cost vs Fair Value Accounting  
+An assets such as a real estate property may be recorded at the price at which it was originally acquired 20 years ago say R5M or at the current market value say R35M.   
+The company is free to use the historical cost or the current market price but it must be consistent for all the items in the same category.  
+You are not allowed to switch from the one to the other in the same balance sheet.   
+To determine the fair value or market price, a company usually hires and expert who provides valuation of the asset. This is done by looking at transaction of comparable assets on the market.  
+Fair value accounting is not allowed for all categories of assets and liabilities.
+It is most often use for the following assets and liabilities:
+* Real Estate
+* Brand Value
+* Trademarks
+* Other fixed and intangible assets
+* Debts
+* Pensions
+
+### Equity
+The sub accounts that makes up Equity includes paid-in capital, retained earnings and net income.  
+__Paid-in Capital__  
+This is the firm's starting capital and any money that comes in later if shareholders decide to increase capital
+
+__Retained Earnings__    
+This is profit that have not been distributed as dividends and the firm has accumulated as equity. You may think of it as a re-investment on behalf of the shareholders.   
+
+__Net Income__  
+The profit made this year. It is income that belongs to shareholders.   
+This is what connects the P&L to the balance sheet.  
