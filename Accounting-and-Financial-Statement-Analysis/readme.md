@@ -288,3 +288,64 @@ This is profit that have not been distributed as dividends and the firm has accu
 __Net Income__  
 The profit made this year. It is income that belongs to shareholders.   
 This is what connects the P&L to the balance sheet.  
+
+### Types of Equity - Practical Example
+Statement of shareholder equity is an important financial statment in the 10k report.  
+
+## Section 3: Let's Build a Solid Foundation: Core Accounting Principle That You Should Learn  
+
+### The Main Accounting Equation
+The main accountinh equation states that Assets must equals Liabilities plus Equity:
+```
+Assets = Liabilities + Equity
+```  
+The _Double-entry principles of bookkeeping_ requires that both sides of the equation must be equal at all times.
+__Accounting Equation Definition__  
+__Assets__: Resources the company owns
+__Liabilities__: Third Parties' Money
+__Equity__: Company's Money
+__Liabilities + Equity__: = Sources of finance
+
+The accounting equation is one of the cornerstones around which accounting is built.  
+
+The accounting equatuion must be satisfied for everry business regardless of its size and performance indicators.  
+
+### General & Subsidiary Ledgers
+__General Ledger__  
+A _general ledger_ is an account that helps us organize information about a firm's Balance Sheet or Income Statement Items.
+For example the Firm will have the following general ledger account opn the asset side:
+- Cash
+- Account Receivable
+- Inventory
+- Property, Plan & Equipment  
+The _general ledger_ account is the name of the container where we store information about Balance Shet and Income Statement Items.
+
+__Subsidiary Ledgers__    
+A general ledger usaully have _subsidiary ledgers_ which contain the respective details of the account.  
+For example, an _Account Receivable_ general ledger will have subsidiary ledger that contains information about the amount that each customer owes. A general ledger for _Inventory_ will contain subsidiary ledger that will show the breakdown between raw materials, work-in-progress and finished goods.  
+
+### T Accounts  
+The _T-account_ is one of the most important tools that accountants use when registering a transaction.  
+A _T-account_ takes the shape of the letter T.  
+On the top side is of the letter T is the account title (e.g Inventory, Account Payable, Revenue) and on the left and right side of the letter T will  be the information about the account increaes and decreases.  
+T-account alows us to visualize transactions in an easier way. We are able to calculate the difference between the account's increases and decreases.  
+We can think of the Balance Sheet of a company as one big T-account with assets on the left side and liabilies & Equaties on the right side.  
+Inside the _Balance Sheet_ T-account are other smaller T-accounts each of which represents a general ledger.
+
+__Debit vs Credit__  
+On the T-Account, _debit_ is on the _left side_ and _credit_ is on the _right side_.
+
+__Assets T-account__
+Assets _increases_ on the debit side and _decreases_ on the credit side.  To show that a firm has bought a new assets, we write the assets on the left side of the T-account.   
+
+__Liabilities T-account__  
+Since Liabilities are the opposite of Assets, liability _decreases_ are written on the right while liability _increases_ goes to the left of the T-account.  This is the same for Equaity T-account.  
+
+![](slides/balance-sheet-t-account.png)   
+
+![](slides/income-statement-t-account.png)  
+
+### Double Entry Bookkeeping
+The _principl of double entry bookkeeping_ says that every transaction has equal and opposite effects in two or more accounts.  This principle guarantee the satisfaction of the accounting equation - `Assets = Liabilities + Equity`.  
+Everytime we register an accounting transaction we need to think of atlease two accounts that will be affected by the transaction.  
+With accounting softwares, it is impossible to make an entry without respecting the double-entry principle since it will show an error if that happens. 
