@@ -339,13 +339,22 @@ __Assets T-account__
 Assets _increases_ on the debit side and _decreases_ on the credit side.  To show that a firm has bought a new assets, we write the assets on the left side of the T-account.   
 
 __Liabilities T-account__  
-Since Liabilities are the opposite of Assets, liability _decreases_ are written on the right while liability _increases_ goes to the left of the T-account.  This is the same for Equaity T-account.  
+Since Liabilities are the opposite of Assets, liability _decreases_ are written on the right while liability _increases_ goes to the left of the T-account.  This is the same for Equity T-account.  
 
 ![](slides/balance-sheet-t-account.png)   
 
 ![](slides/income-statement-t-account.png)  
 
 ### Double Entry Bookkeeping
-The _principl of double entry bookkeeping_ says that every transaction has equal and opposite effects in two or more accounts.  This principle guarantee the satisfaction of the accounting equation - `Assets = Liabilities + Equity`.  
-Everytime we register an accounting transaction we need to think of atlease two accounts that will be affected by the transaction.  
-With accounting softwares, it is impossible to make an entry without respecting the double-entry principle since it will show an error if that happens. 
+The _principle of double entry bookkeeping_ says that every transaction has equal and opposite effects in two or more accounts.  This principle guarantee the satisfaction of the accounting equation - `Assets = Liabilities + Equity`.  
+Every time we register an accounting transaction we need to think of at least two accounts that will be affected by the transaction.  
+In double entry bookkeeping, every debit entry needs to be matched with an equal credit entry.  
+With accounting softwares, it is impossible to make an entry without respecting the double-entry principle since it will show an error if that happens.  
+
+## Section 4: A Complete Case Study: Bookkeeping Record + Income Statement + Balance Sheet
+* When an asset decreases, we need to credit it's account
+* When an expense increases, we need to debit it
+* When a liability or equity is increased, we credit such an account
+* Net income is part of equity, so revenue which an item that increase net income, will behave as equity.
+* Cost goes in the opposite direction to income will behave in the opposite way
+* Utility expenses are strictly related to the financial period under consideration and should not be capitalized under the balance sheet 
